@@ -1,5 +1,5 @@
 {
-  "name": "knex-schema-inspector",
+  "name": "@vdtn359/knex-schema-inspector",
   "version": "3.0.1",
   "description": "Utility for extracting information about existing DB schema",
   "main": "dist/index.js",
